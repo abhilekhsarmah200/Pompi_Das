@@ -1,0 +1,7 @@
+@import './styles/card.css';
+@import './styles/carousel.css';
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
