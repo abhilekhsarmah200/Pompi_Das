@@ -72,6 +72,7 @@ export default function index() {
             </ScrollAnimation>
           </div>
         </div>
+        <div></div>
       </div>
     </>
   );
